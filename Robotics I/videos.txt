@@ -1,0 +1,16 @@
+LECTURES 
+
+1. General information and Introduction LECTURE 01-07 CHAPTER 1 
+2. Actuators LECTURE 07-08 CHAPTER 5
+3. Position and Orientation LECTURE 09-10 CHAPTER 2
+4. Minimal representations of orientation LECTURE 11-12 CHAPTER 2
+5. Robot components: proprioceptive sensors LECTURE 12-13 CHAPTER 5
+6. Direct Kinematics LECTURE 14-15 CHAPTER 2
+7. Robot components: exteroceptive sensors LECTURE 16-17 CHAPTER 5
+8. Inverse Kinematics LECTURE 18-20 CHAPTER 2 
+9. Programming Architecture LECTURE 21-22 CHAPTER 6
+10. Differential Kinematics LECTURE 23-25 CHAPTER 3
+11. Inverse of Differential Kinematics LECTURE 25-26 CHAPTER 3
+12. Trajectory Planning: Joint LECTURE 27-28 CHAPTER 4
+13. Trajectory Planning: Cartesian LECTURE 29 CHAPTER 4
+14. Kinematic Control LECTURE 30 CHAPTER 8
